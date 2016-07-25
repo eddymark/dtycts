@@ -14,5 +14,11 @@ and open the template in the editor.
         echo 'hello Guys';
         
         ?>
+        
+        <h1>Hello guys this will be my webpage my guy</h1>
+        
+        <p>this is my test page of a website using git </p>
+       <img src="images/dog.jpg" alt="LOGO"/>
+       
     </body>
 </html>
