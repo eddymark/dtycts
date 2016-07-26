@@ -20,7 +20,7 @@
 
                     <div class="col-md-12"> 
                         <div class="media">
-                            <a class="media-left" href="http://www.dadstakeyourchildtoschoolday.com/images/childPhoto.jpg">
+                            <a class="media-left" href="images/">
                                 <img class="media-object" src="http://www.dadstakeyourchildtoschoolday.com/images/childPhoto.jpg" alt="Generic placeholder image">
                             </a>
                             <div  class="media-body">
