@@ -1,7 +1,7 @@
 <div class= "left">
     <ul class="nav nav-pills nav-stacked">
 
-        <li ><a href="http://www.inft.me/~eddy/dtycts">Home</a></li>
+        <li ><a href="http://www.inft.me/~eddy/home">Home</a></li>
         <li><a href="http://www.inft.me/~eddy/dtycts/hosting">Hosting a DTYCTS Event </a></li>
         <li><a href="http://www.inft.me/~eddy/dtycts/themes">Themes</a></li>
         <li><a href="http://www.inft.me/~eddy/dtycts/media">Media</a></li>
